@@ -115,4 +115,4 @@ From cleaning raw data to uncovering meaningful insights, the analysis provides 
 The findings can guide improvements in marketing strategies, product planning, customer retention, and overall sales performance.
 
 # Live Dashboard
-[Explore the live dashboard]()
+[Explore the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTk1ZmY2MjYtMmEzNS00ODEwLTlhOWYtN2QxNDdkYjEyOTllIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
